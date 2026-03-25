@@ -14,6 +14,6 @@
 
 ![Figure R4](fig_R4_loss_decomposition.png)
 
-# Figure R5: Gradient Cosine Similarity Between $\nabla L_FM$ and $\nabla L_PDE$
+# Figure R5: Gradient Cosine Similarity Between $\nabla L_{FM}$ and $\nabla L_{PDE}$
 
 ![Figure R5](fig_grad_cosine_R5.png)
