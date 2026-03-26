@@ -17,3 +17,7 @@
 # Figure R5: Gradient Cosine Similarity Between $\nabla L_{FM}$ and $\nabla L_{PDE}$
 
 ![Figure R5](fig_grad_cosine_R5.png)
+
+# Figure R6: Training Curves with Ablations (mean ± std, 8 seeds) on Pen-Human, Antmaze-Large, and Antsoccer-Arena.
+
+![Figure R6](fig_R6_training_curves.png)
