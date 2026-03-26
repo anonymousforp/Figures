@@ -57,12 +57,12 @@
 
 ## Table R3: Alternative Timestep Distributions (pen-human-v1, $\lambda=0.015$)
 
-| Distribution + PDE | Pen-Human |
-|---|---|
+| Distribution + PDE | Pen-Human | Antmaze-Large|
+|---|---|---|
 | Uniform | $75\pm8$ |
-| Truncated normal | $74.3\pm5$ |
-| Logit-normal | $71.2\pm4$ |
-| **Beta(3,3)** | **$82\pm3$** |
+| Truncated normal | $74.3\pm5$ | $77\pm6$|
+| Logit-normal | $71.2\pm4$ |  $72\pm5$|
+| **Beta(3,3)** | **$82\pm3$** | **84\pm7**|
 
 ---
 
