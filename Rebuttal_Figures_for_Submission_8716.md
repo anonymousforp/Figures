@@ -63,3 +63,14 @@
 | Truncated normal | $74.3\pm5$ |
 | Logit-normal | $71.2\pm4$ |
 | **Beta(3,3)** | **$82\pm3$** |
+
+---
+
+## Table R4: Cross-Seed Variance Summary (Standard Deviation over 8 Seeds). PQL achieves lowest variance in 21 of 31 environments. All 8 losses are small in magnitude (≤ 1.1 increase), while wins include reductions of 13, 21, and 25 points.
+
+| Suite | Avg Std (FQL) | Avg Std (PQL-PDE) | Avg Std (PQL) | PQL Lowest / Total |
+| --- | --- | --- | --- | --- |
+| D4RL Gym-MuJoCo | 4.1 | 3.1 | **1.8** | 6 / 9 |
+| Adroit | 4.1 | 3.7 | **2.4** | 5 / 12 |
+| OGBench | 11.1 | 9.8 | **4.6** | 10 / 10 |
+| **All (31 envs)** | **6.3** | **5.5** | **2.9** | **21 / 31** |
