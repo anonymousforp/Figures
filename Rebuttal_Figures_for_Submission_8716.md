@@ -59,10 +59,10 @@
 
 | Distribution + PDE | Pen-Human | Antmaze-Large|
 |---|---|---|
-| Uniform | $75\pm8$ |
+| Uniform | $75\pm8$ | $79\pm5$|
 | Truncated normal | $74.3\pm5$ | $77\pm6$|
 | Logit-normal | $71.2\pm4$ |  $72\pm5$|
-| **Beta(3,3)** | **$82\pm3$** | **84\pm7**|
+| **Beta(3,3)** | **$82\pm3$** | **$84\pm7$**|
 
 ---
 
